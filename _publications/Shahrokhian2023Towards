@@ -1,0 +1,16 @@
+---
+title: "Towards speech-based collaboration detection in a noisy classroom"
+collection: AIED 2022
+Authors: Bahar Shahrokhian, Kurt VanLehn
+permalink: /publication/Shahrokhian2023Towards
+excerpt: 'An Intelligent Orchestration System, such as our FACT , should act like an automated teaching assistant that helps teachers provide relevant, timely help. To do so, it needs to know what the students are doing and thus who needs help more than the others. This is especially important when students work in small groups and the teacher’s ability to monitor every group frequently diminishes. This project is an attempt to investigate the feasibility and challenges of only using the students’ speech to predict each group’s collaboration status. We are using machine-learning techniques to build models that agree with our human annotator’s collaboration status judgments.'
+date: 22022/7/26
+venue: 'International Conference on Artificial Intelligence in Education'
+paperurl: 'https://www.researchgate.net/profile/Bahar-Shahrokhian/publication/362247572_Towards_Speech-Based_Collaboration_Detection_in_a_Noisy_Classroom/links/62e839af4246456b5500ddd9/Towards-Speech-Based-Collaboration-Detection-in-a-Noisy-Classroom.pdf'
+citation: 'Shahrokhian, B., & VanLehn, K. (2022, July). Towards speech-based collaboration detection in a noisy classroom. In International Conference on Artificial Intelligence in Education (pp. 65-70). Cham: Springer International Publishing.'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
