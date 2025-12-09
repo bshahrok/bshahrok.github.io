@@ -5,12 +5,12 @@ Authors: Bahar Shahrokhian, Kurt VanLehn
 permalink: /publication/Shahrokhian2023Tracking
 excerpt: 'Tracking the teacher’s position in real-time during the class should be able to increase the appropriateness of the advice that an orchestration system gives to teachers and students. However, such tracking needs to be done accurately without impinging on student privacy. This paper describes both our implementation of a teacher-tracking system and an evaluation of its accuracy in a mathematics middle-school classroom. The tracking system interprets data from an indoor positioning system that has the teacher wear a transmitter whose signals are detected by sensors on the walls of the classroom.'
 date: 2023/06/01
-venue: 'CSCL 2023'
-paperurl: '[Access paper here](https://repository.isls.org/bitstream/1/9262/1/CSCL2023_434-437.pdf)'
+venue: 'The International Conference on Computer-Supported Collaborative Learning (CSCL)'
+paperurl: 'https://repository.isls.org/bitstream/1/9262/1/CSCL2023_434-437.pdf'
 citation: 'Shahrokhian, B., & VanLehn, K. (2023). Tracking the Teacher in the Classroom, a Case Study. In Proceedings of the 16th International Conference on Computer-Supported Collaborative Learning-CSCL 2023, pp. 434-437. International Society of the Learning Sciences.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://repository.isls.org/bitstream/1/9262/1/CSCL2023_434-437.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
