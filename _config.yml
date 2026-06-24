@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bahar Shahrokhian / Personal webpage"
+title                    : "Bahar Shahrokhian"
 title_separator          : "-"
 name                     : &name "Bahar"
 description              : &description "description"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "firstname.lastname@asu.edu"
+    email                : "BaharShahrokhian@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bahar"
   avatar           : "bahar-shahrokhian.jpg"
-  bio              : "PhD student in Learning Analytics"
+  bio              : "Ph.D. in Learning Analytics & AI, ASU"
   location         : "Tempe, AZ"
   employer         :
   pubmed           : "N/A"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@baharshahrokhi1"
+  twitter          : "baharshahrokhi1"
   vine             :
   weibo            :
   xing             :
