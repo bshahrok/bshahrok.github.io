@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About Bahar Shahrokhian
+title: Bahar Shahrokhian
 excerpt: ""
 author_profile: true
 redirect_from: 
