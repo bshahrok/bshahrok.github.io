@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bahar Shahrokhian"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Bahar"
 description              : &description "description"
